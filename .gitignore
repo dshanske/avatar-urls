@@ -1,0 +1,7 @@
+build/*
+sass/.sass-cache/*
+sass/svg/intermediate/*
+sass/symbol/*
+vendor/*
+node_modules/*
+composer.lock
